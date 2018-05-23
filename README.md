@@ -1,1 +1,1 @@
-Code for Digital Data Processing in Geophysics (Fall 2015, with Brian Stump).  Wasn't a ton of coding in this course but code is in Matlab.  Still in the process of uploading as of 3/21/17.
+Code for Digital Data Processing in Geophysics (Fall 2015, with Brian Stump).  Wasn't a ton of coding in this course but code is in Matlab.  No version control used in this course.  Still in the process of uploading as of 5/1/18.
